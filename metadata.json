@@ -1,0 +1,10 @@
+{
+  "name": "Remix BioPay - Biometric Contactless Payments",
+  "description": "Experience Google Pay reimagined with next-gen biometric fingerprint and thumb scanning for instant, ultra-secure contactless payments.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
